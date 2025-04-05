@@ -1,0 +1,55 @@
+[
+    {
+      "title": "video1",
+      "description": "Bitcoin, Dogecoin, Ethereum, NFT's, all explained in one simple guide.",
+      "duration": "5:30",
+      "views": 50,
+      "thumbnailUrl": "https://img.youtube.com/vi/4c6FyuetSVo/mqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/embed/4c6FyuetSVo?feature=shared"
+     
+    },
+    {
+      "title": "What is Bitcoin & How it Works?",
+      "description": "Complete explanation of bitcoin and how it works.",
+      "duration": "5:30",
+      "views": 50,
+      "thumbnailUrl": "https://img.youtube.com/vi/4c6FyuetSVo/mqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/embed/4c6FyuetSVo?si=q04YoAswpjHs0p-4"
+      
+    },
+    {
+      "title": "Spot vs Future Vs Margin Trading",
+      "description": "Understand the differences between spot, future, and margin trading.",
+      "duration": "7:45",
+      "views": 30,
+      "thumbnailUrl": "https://img.youtube.com/vi/AlKXoHvwluA/mqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/embed/AlKXoHvwluA?si=Uiewrv9Lp_N8otIP"
+      
+    },
+    {
+      "title": "How To Invest in Crypto as A COMPLETE Beginner",
+      "description": "Trading & investing and show you how to be in the 1% of investors. Right now we have an opportunity to invest in an emerging market that can make us generational wealth, this is how.",
+      "duration": "6:15",
+      "views": 70,
+      "thumbnailUrl": "https://img.youtube.com/vi/Fw0rdSHzWFY/mqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/embed/Fw0rdSHzWFY?si=VDNt-hBlaw7303Nm"
+    },
+    {
+      "title": "All about Blockchain | Simply Explained",
+      "description": "Learn how blockchain technology works and its applications.",
+      "duration": "8:00",
+      "views": 40,
+      "thumbnailUrl": "https://img.youtube.com/vi/-ozG4PFFP5A/mqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/embed/-ozG4PFFP5A?si=nSLMH-qkfdHy1bkm"
+     
+    },
+    {
+      "title": "Technical Analysis For Beginners",
+      "description": "Learn how blockchain technology works and its applications.",
+      "duration": "8:00",
+      "views": 40,
+      "thumbnailUrl": "https://img.youtube.com/vi/LNajQTnZviQ/mqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/embed/LNajQTnZviQ?si=RZ3gdjBrHPL32y4Y"
+    
+    }
+  ]
